@@ -1,2 +1,6 @@
 joblib == 1.1.0
 matplotlib
+pandas
+numpy
+seaborn
+plotly
