@@ -72,7 +72,7 @@ Objetivos:
  * Antes de realizar-se o balanceamento dos dados, é necessária a normalização destes e a separação prévia entre treino e teste. Este procedimento inicial é necessário para evitarmos o chamado 'data leakage' e o conseguinte enviesamento dos modelos;
  * Para avaliação dos modelos de classificação, a métrica 'accuracy' não parece ser a melhor escolha na presença de dados desbalanceados. Outras métricas como a precisão, revocação e f1-score proporcionam um melhor julgamento dos resultados dos modelos;
  * Utilizando-se as duas técnicas de balanceamento e alguns modelos de machine learning de classificação, percebeu-se que o modelo Gradient Boosting Classifier, juntamente com a técnica oversampling, apresentou o melhor score integrado para o dataset;
- * Utilizando-se, ainda, o método 'GridSearchCV' para otimização dos hiperparâmetros do modelo selecionado, foi possível obter um f1-score de 0.82, em um intervalo estatístico de [0.71, 0.90] (95% de confiança).
+ * Utilizando-se, ainda, o método 'GridSearchCV' para otimização dos hiperparâmetros do modelo selecionado, foi possível obter um f1-score de 0.84, em um intervalo estatístico de [0.69, 0.92] (95% de confiança).
 
 ## Deployment do modelo otimizado:
 
