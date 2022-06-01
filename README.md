@@ -76,4 +76,9 @@ Objetivos:
 
 ## Deployment do modelo otimizado:
 
-A fim de criar um resumo gráfico dos principais insights observados no projeto e disponibilizar o modelo para utilização externa, criou-se um aplicativo web através do framework Streamlit, disponível em: 
+A fim de criar um resumo gráfico dos principais insights observados no projeto e disponibilizar o modelo para utilização externa, criou-se um aplicativo web através do framework Streamlit, disponível em: https://share.streamlit.io/fabianomanetti/alurachallenge/main/app.py
+
+![webapp_churn](https://user-images.githubusercontent.com/102125988/171519333-21a2ea82-1104-46c0-b002-a6c83e3a7428.gif)
+
+
+
