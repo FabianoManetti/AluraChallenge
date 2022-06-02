@@ -78,6 +78,8 @@ Objetivos:
 
 A fim de criar um resumo gráfico dos principais insights observados no projeto e disponibilizar o modelo para utilização externa, criou-se um aplicativo web através do framework Streamlit, disponível em: https://share.streamlit.io/fabianomanetti/alurachallenge/main/app.py
 
+![Alt Text](webapp_churn.gif)
+
 
 
 
