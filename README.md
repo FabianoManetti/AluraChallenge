@@ -1,3 +1,5 @@
+[![Badge](https://img.shields.io/badge/Author-Fabiano_Manetti-%237159c1?style=flat-square&logo=ghost)](https://github.com/FabianoManetti/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano-manetti/)
+
 # Alura Challenge
 A empresa operadora de telecomunicações Alura Voz necessita de um cientista de dados para avaliar e reduzir a Taxa de Evasão de Clientes, conhecido como Churn Rate.
 
